@@ -1,0 +1,1446 @@
+[
+	{
+		"id": "http://zotero.org/groups/2426357/items/89KFCE2H",
+		"type": "document",
+		"title": "Réseaux épistolaires dans les mondes ibériques et ibéro-américains (XVIIIe- XIXe- XXe siècles)"
+	},
+	{
+		"id": "http://zotero.org/groups/2426357/items/LWADQVYN",
+		"type": "book",
+		"archive_location": "collex_ce",
+		"call-number": "CE 37836",
+		"collection-title": "Obras colectivas Humanidades 38",
+		"event-place": "Alcalá de Henares",
+		"ISBN": "978-84-16133-14-7",
+		"language": "spa;fre;ita",
+		"number-of-pages": "592",
+		"publisher": "Universidad de Alcalá de Henares, Servicio de Publicaciones",
+		"publisher-place": "Alcalá de Henares",
+		"source": "https://www.sudoc.fr/181787873",
+		"title": "Cartas = Lettres Lettere: discursos, prácticas y representaciones epistolares : siglos XIV-XX",
+		"title-short": "Cartas = Lettres Lettere",
+		"author": [
+			{
+				"family": "Castillo Gómez",
+				"given": "Antonio"
+			},
+			{
+				"family": "Sierra Blas",
+				"given": "Verónica"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2426357/items/Y68GJHJR",
+		"type": "book",
+		"archive_location": "buc_8",
+		"call-number": "809.6 REL",
+		"event-place": "Paris",
+		"ISBN": "979-10-370-0071-2",
+		"language": "fre;spa",
+		"number-of-pages": "402",
+		"publisher": "Hermann",
+		"publisher-place": "Paris",
+		"source": "https://www.sudoc.fr/234655534",
+		"title": "Relier, délier les langues: formes et défis linguistiques de l'écriture épistolaire, Moyen âge - XVIIIe siècle",
+		"title-short": "Relier, délier les langues",
+		"author": [
+			{
+				"family": "Canonica de Rochemonteix",
+				"given": "Elvezio"
+			},
+			{
+				"family": "Panzera",
+				"given": "Maria Cristina"
+			},
+			{
+				"family": "Sultan",
+				"given": "Agathe"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2019"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2426357/items/ZCYU2VW3",
+		"type": "book",
+		"archive_location": "buc_8",
+		"call-number": "809.933 55 REL",
+		"collection-title": "Écritures de l'intime correspondances, mémoires, autobiographies 25",
+		"event-place": "Clermont-Ferrand",
+		"ISBN": "978-2-84516-704-9",
+		"language": "fre",
+		"number-of-pages": "308",
+		"publisher": "Presses universitaires Blaise Pascal",
+		"publisher-place": "Clermont-Ferrand",
+		"source": "https://www.sudoc.fr/193474875",
+		"title": "Les relations familiales dans les écritures de l'intime du XIXe siècle français",
+		"author": [
+			{
+				"family": "Bernard-Griffiths",
+				"given": "Simone"
+			},
+			{
+				"family": "Madelénat",
+				"given": "Daniel"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2426357/items/H6R65BI9",
+		"type": "book",
+		"archive_location": "collex_e9",
+		"call-number": "946.081 29 E ADA",
+		"collection-title": "Comares historia",
+		"event-place": "Granada",
+		"ISBN": "978-84-9045-491-6",
+		"language": "spa",
+		"number-of-pages": "204",
+		"publisher": "Comares",
+		"publisher-place": "Granada",
+		"source": "https://www.sudoc.fr/202977080",
+		"title": "Gritos de papel: las cartas de súplica del exilio español, 1936-1945",
+		"title-short": "Gritos de papel",
+		"author": [
+			{
+				"family": "Adámez Castro",
+				"given": "Guadalupe"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2017"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2426357/items/Y4GT3AX4",
+		"type": "book",
+		"archive_location": "buc_m1",
+		"call-number": "XA 10824",
+		"collection-title": "Détours littéraires",
+		"event-place": "Paris",
+		"ISBN": "2-908212-56-0",
+		"language": "fre",
+		"number-of-pages": "254",
+		"publisher": "Éditions Kimé - Paris",
+		"publisher-place": "Paris",
+		"source": "https://www.sudoc.fr/003249913",
+		"title": "La lettre à la croisée de l'individuel et du social",
+		"author": [
+			{
+				"family": "Bossis",
+				"given": "Mireille"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1994"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2426357/items/MUXR2DYU",
+		"type": "book",
+		"archive_location": "buc_8",
+		"call-number": "940.23 PLU",
+		"collection-title": "Collection \"Histoire\"",
+		"event-place": "Arras",
+		"ISBN": "2-910663-76-0",
+		"language": "fre",
+		"number-of-pages": "343",
+		"publisher": "Artois presses université",
+		"publisher-place": "Arras",
+		"source": "https://www.sudoc.fr/066852803",
+		"title": "La plume et la toile: pouvoirs et réseaux de correspondance dans l'Europe des Lumières",
+		"title-short": "La plume et la toile",
+		"author": [
+			{
+				"family": "Beaurepaire",
+				"given": "Pierre-Yves"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2002"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2426357/items/3C929YL3",
+		"type": "book",
+		"archive_location": "collex_ce",
+		"call-number": "CE 21621",
+		"collection-title": "Textos y estudios de mujeres Serie 2 8",
+		"event-place": "Cádiz",
+		"ISBN": "84-7786-389-X",
+		"language": "spa",
+		"number-of-pages": "217",
+		"publisher": "Universidad de Cádiz, Servicio de Publicaciones",
+		"publisher-place": "Cádiz",
+		"source": "https://www.sudoc.fr/082777160",
+		"title": "La voz femenina en la narrativa epistolar",
+		"author": [
+			{
+				"family": "Baquero Escudero",
+				"given": "Ana Luisa"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2003"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2426357/items/IAG5RA9Y",
+		"type": "book",
+		"archive_location": "collex_acq",
+		"call-number": "(ACQ)",
+		"collection-number": "190",
+		"collection-title": "Collectanea (Huelva)",
+		"event-place": "Huelva",
+		"ISBN": "978-84-16061-13-6",
+		"language": "espagnol ; castillan",
+		"number-of-pages": "472",
+		"publisher": "Universidad de Huelva, DL 2014",
+		"publisher-place": "Huelva",
+		"source": "https://www.sudoc.fr/199627533",
+		"title": "Cinco siglos de cartas: historia y prácticas epistolares en las épocas moderna y contemporánea",
+		"title-short": "Cinco siglos de cartas",
+		"author": [
+			{
+				"family": "Castillo Gómez",
+				"given": "Antonio"
+			},
+			{
+				"family": "Sierra Blas",
+				"given": "Verónica"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2426357/items/TG7JLULD",
+		"type": "book",
+		"archive_location": "buc_8",
+		"call-number": "846.809 COR",
+		"collection-title": "Nouvelles études historiques",
+		"event-place": "Paris",
+		"ISBN": "978-2-213-02454-7",
+		"language": "fre",
+		"publisher": "Fayard",
+		"publisher-place": "Paris",
+		"source": "https://www.sudoc.fr/002281724",
+		"title": "La correspondance: les usages de la lettre au XIXe siècle",
+		"title-short": "La correspondance",
+		"author": [
+			{
+				"literal": "Centre de recherches historiques Paris"
+			}
+		],
+		"contributor": [
+			{
+				"family": "Chartier",
+				"given": "Roger"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1991"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2426357/items/HNUT7DVV",
+		"type": "book",
+		"archive_location": "buc_8",
+		"call-number": "809.935 92 ECR",
+		"collection-title": "BPI en actes",
+		"event-place": "Paris",
+		"ISBN": "2-84246-059-6",
+		"language": "fre",
+		"number-of-pages": "260",
+		"publisher": "Bibliothèque publique d'information Centre Pompidou",
+		"publisher-place": "Paris",
+		"source": "https://www.sudoc.fr/069784078",
+		"title": "L'écriture de soi peut-elle dire l'histoire ?: actes du colloque organisé par la BPI, les 23 et 24 mars 2001, dans la Petite Salle du Centre Pompidou à Paris",
+		"title-short": "L'écriture de soi peut-elle dire l'histoire ?",
+		"author": [
+			{
+				"family": "Chiantaretto",
+				"given": "Jean-François"
+			},
+			{
+				"literal": "Bibliothèque publique d'information"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2002"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2426357/items/U9B79QQG",
+		"type": "book",
+		"archive_location": "buc_8",
+		"call-number": "809.935 92 ITI",
+		"collection-title": "50-50",
+		"event-place": "Paris",
+		"ISBN": "2-7298-4647-6",
+		"language": "fre",
+		"number-of-pages": "222",
+		"publisher": "Ellipses",
+		"publisher-place": "Paris",
+		"source": "https://www.sudoc.fr/004155289",
+		"title": "La littérature du moi en 50 ouvrages: autobiographies, mémoires, journaux intimes, récits autobiographiques",
+		"title-short": "La littérature du moi en 50 ouvrages",
+		"author": [
+			{
+				"family": "Itti",
+				"given": "Eliane"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1996"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2426357/items/MDHNDPHR",
+		"type": "book",
+		"archive_location": "buc_8",
+		"call-number": "809.935 92 ECR",
+		"collection-title": "Mémoires vives Histoire",
+		"event-place": "Bordeaux",
+		"ISBN": "978-2-86781-560-7",
+		"language": "fre;eng",
+		"number-of-pages": "657",
+		"publisher": "Presses universitaires de Bordeaux",
+		"publisher-place": "Bordeaux",
+		"source": "https://www.sudoc.fr/140746641",
+		"title": "Les écrits du for privé en Europe (du Moyen Age à l'époque contemporaine): enquêtes, analyses, publications",
+		"title-short": "Les écrits du for privé en Europe (du Moyen Age à l'époque contemporaine)",
+		"author": [
+			{
+				"family": "Bardet",
+				"given": "Jean-Pierre"
+			},
+			{
+				"family": "Arnoul",
+				"given": "Elisabeth"
+			},
+			{
+				"family": "Ruggiu",
+				"given": "François-Joseph"
+			}
+		],
+		"contributor": [
+			{
+				"literal": "Projet pour une recension des écrits du for privé en France"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2010"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2426357/items/ZFD7G5TD",
+		"type": "book",
+		"archive_location": "buc_8",
+		"call-number": "846.009 EPI",
+		"event-place": "Caen",
+		"ISBN": "2-84133-240-3",
+		"language": "fre",
+		"number-of-pages": "258",
+		"publisher": "Presses Universitaires de Caen",
+		"publisher-place": "Caen",
+		"source": "https://www.sudoc.fr/098615424",
+		"title": "L'épistolaire au féminin: correspondances de femmes, XVIIIe-XXe siècle : [actes du] Colloque de Cerisy-la-Salle, 1er-5 octobre 2003",
+		"title-short": "L'épistolaire au féminin",
+		"author": [
+			{
+				"family": "Diaz",
+				"given": "Brigitte"
+			},
+			{
+				"family": "Siess",
+				"given": "Jürgen"
+			},
+			{
+				"literal": "Centre culturel international"
+			}
+		],
+		"contributor": [
+			{
+				"family": "Centre de recherche Textes",
+				"given": "histoire"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2006"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2426357/items/HGHHWYEF",
+		"type": "book",
+		"archive_location": "buc_8",
+		"call-number": "848.809 DUF",
+		"collection-title": "Amphi Lettres",
+		"event-place": "Rosny",
+		"ISBN": "978-2-7495-3375-9",
+		"language": "fre",
+		"number-of-pages": "208",
+		"publisher": "Bréal",
+		"publisher-place": "Rosny",
+		"source": "https://www.sudoc.fr/182511308",
+		"title": "Les écritures de l'intime de 1800 à 1914: autobiographies, mémoires, journaux intimes et correspondances",
+		"title-short": "Les écritures de l'intime de 1800 à 1914",
+		"author": [
+			{
+				"family": "Dufief",
+				"given": "Pierre-Jean"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2014"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2426357/items/279CAL5F",
+		"type": "book",
+		"archive_location": "buc_8",
+		"call-number": "809.6 CON",
+		"collection-title": "Collection \"Perspectives littéraires\"",
+		"event-place": "Tours",
+		"ISBN": "978-2-86906-388-4",
+		"language": "fre",
+		"number-of-pages": "541",
+		"publisher": "Presses universitaires François-Rabelais",
+		"publisher-place": "Tours",
+		"source": "https://www.sudoc.fr/185874568",
+		"title": "Conflits et polémiques dans l'épistolaire",
+		"author": [
+			{
+				"literal": "Colloque international \"L'épistolaire antique et ses prolongements européens\""
+			}
+		],
+		"contributor": [
+			{
+				"family": "Gavoille",
+				"given": "Élisabeth"
+			},
+			{
+				"family": "Guillaumont",
+				"given": "François"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2426357/items/KPBBB7U5",
+		"type": "book",
+		"archive_location": "buc_8",
+		"call-number": "809.6 LET (Albi)",
+		"collection-number": "4",
+		"collection-title": "Champion-varia",
+		"event-place": "Paris",
+		"ISBN": "2-85203-588-X",
+		"language": "fre",
+		"publisher": "H. Champion",
+		"publisher-place": "Paris",
+		"source": "https://www.sudoc.fr/003959767",
+		"title": "La lettre et le politique: actes du colloque de Calais, 17-19 septembre 1993 organisé par l'] Association interdisciplinaire de recherche sur l'épistolaire",
+		"title-short": "La lettre et le politique",
+		"author": [
+			{
+				"family": "Lebrun-Pézerat",
+				"given": "Pierrette"
+			},
+			{
+				"family": "Poublan",
+				"given": "Danièle"
+			}
+		],
+		"contributor": [
+			{
+				"literal": "Association interdisciplinaire de recherches sur l'épistolaire"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1996"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2426357/items/NA8NEBIH",
+		"type": "article-journal",
+		"abstract": "Objective/Context: The text proposes a journey through the methodology and work process followed in the Post Scriptum. A Digital Archive of Ordinary Writings (Early Modern in Spain and Portugal) project, which led to the formation of a digital epistolary corpus—now available online—from funds preserved in judicial archives during the Modern Age in the Iberian Peninsula. Based on a practical case, the paper reflects on the reality of the fieldwork carried out in order to build a digital corpus, as well as on its strengths and weaknesses, which allows a first-hand insight of some changes and challenges of the digital revolution we are immersed in. Methodology: Advances in the field of Digital Humanities are taken as a starting point to examine the multidisciplinarity that characterizes both the corpus formation process and the possibilities for its analysis and study. Originality: The paper describes the complete work process involved in the transformation of primary sources into digital sources in an innovative project in the field of Digital Humanities; it also reflects on problems faced by historians in working with private letters produced by common people (sixteenth-nineteenth centuries), which range from the location of these sources to their selection, digitization, editing, treatment, and subsequent study. Conclusions: In addition to describing the process of transforming sources into a digital corpus and the possibilities of its analysis, the article evidences different analytical ways. Likewise, it addresses the wealth of archives as essential repositories for recovering private and ordinary epistolary sources while also reflecting on the future of their conservation in the digital environment.",
+		"archive_location": "web_open",
+		"call-number": "(En ligne)",
+		"container-title": "Historia Crítica",
+		"DOI": "10.7440/histcrit83.2022.05",
+		"ISSN": "1900-6152",
+		"issue": "83",
+		"language": "es",
+		"note": "number: 83",
+		"page": "99-123",
+		"title": "Cartas para la Historia en el mundo 2.0: la construcción y estudio de un corpus epistolar digital hispano-luso de la Edad Moderna",
+		"title-short": "Cartas para la Historia en el mundo 2.0",
+		"URL": "https://revistas.uniandes.edu.co/index.php/hiscrit/article/view/4636",
+		"author": [
+			{
+				"family": "Martín",
+				"given": "Laura Martínez"
+			},
+			{
+				"family": "Castro",
+				"given": "Guadalupe Adámez"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					5,
+					27
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					1,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2426357/items/RGP5BN4W",
+		"type": "book",
+		"archive_location": "collex_acq",
+		"call-number": "(ACQ)",
+		"event-place": "Lisboa",
+		"ISBN": "978-989-99776-4-8",
+		"language": "espagnol ; castillan",
+		"publisher": "Arranha Céus",
+		"publisher-place": "Lisboa",
+		"source": "https://www.sudoc.fr/269198849",
+		"title": "Huellas de tinta y papel: cartas corrientes para una historia diferente",
+		"title-short": "Huellas de tinta y papel",
+		"author": [
+			{
+				"family": "Martínez Martín",
+				"given": "Laura"
+			},
+			{
+				"family": "Adámez Castro",
+				"given": "Guadalupe"
+			},
+			{
+				"family": "García Prieto",
+				"given": "Elisa"
+			},
+			{
+				"family": "Saraiva",
+				"given": "Nuno"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2426357/items/ZE8EY7MM",
+		"type": "book",
+		"archive_location": "collex_acq",
+		"call-number": "(ACQ)",
+		"event-place": "Madrid",
+		"ISBN": "978-84-362-7392-2",
+		"language": "espagnol ; castillan",
+		"number-of-pages": "579",
+		"publisher": "Universidad Nacional de Educación a Distancia",
+		"publisher-place": "Madrid",
+		"source": "https://www.sudoc.fr/236963635",
+		"title": "Identidad autorial femenina y comunicación epistolar",
+		"author": [
+			{
+				"family": "Martos Pérez",
+				"given": "María Dolores"
+			},
+			{
+				"family": "Neira",
+				"given": "Julio"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2426357/items/Y7N36EC7",
+		"type": "book",
+		"archive_location": "buc_9",
+		"call-number": "946.05 TRO",
+		"event-place": "Toulouse",
+		"language": "fre;spa",
+		"publisher": "Presses Universitaires du Mirail",
+		"publisher-place": "Toulouse",
+		"source": "https://www.sudoc.fr/079406505",
+		"title": "L'écriture de l'amitié dans l'Espagne des lumières: la Real sociedad bascongada de los amigos del país, d'après la source épistolaire",
+		"title-short": "L'écriture de l'amitié dans l'Espagne des lumières",
+		"author": [
+			{
+				"family": "Mary-Trojani",
+				"given": "Cécile"
+			}
+		],
+		"contributor": [
+			{
+				"family": "Soubeyroux",
+				"given": "Jacques"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2004"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2426357/items/GVXQELB6",
+		"type": "book",
+		"archive_location": "collex_acq",
+		"call-number": "(ACQ)",
+		"ISBN": "978-84-15872-64-1",
+		"publisher": "Ediciones Idea",
+		"title": "Las cartas las inventó el afecto : Ensayos sobre epistolografía en el siglo de las Luces",
+		"title-short": "Las cartas las inventó el afecto",
+		"author": [
+			{
+				"family": "Padrón Fernández",
+				"given": "Rafael"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					5,
+					27
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2013"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2426357/items/ARRKAXDJ",
+		"type": "book",
+		"archive_location": "collex_e9",
+		"call-number": "946.050 3 E CAL",
+		"event-place": "Logroño",
+		"ISBN": "978-84-15924-72-2",
+		"language": "spa",
+		"publisher": "Siníndice Editorial",
+		"publisher-place": "Logroño",
+		"source": "https://www.sudoc.fr/99376530",
+		"title": "Caleidoscopio de la vida cotidiana (siglos XVI-XVIII)",
+		"author": [
+			{
+				"family": "Franco Rubio",
+				"given": "Gloria Ángeles"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2426357/items/UTAMMQTX",
+		"type": "book",
+		"archive_location": "not_here",
+		"call-number": "(PEB)",
+		"collection-title": "Storia e società (Roma)",
+		"event-place": "Roma",
+		"ISBN": "978-88-420-8527-0",
+		"language": "italien",
+		"number-of-pages": "xi+238; 8",
+		"publisher": "Laterza",
+		"publisher-place": "Roma",
+		"source": "https://www.sudoc.fr/123893445",
+		"title": "Scrivere lettere: una storia plurimillenaria",
+		"title-short": "Scrivere lettere",
+		"author": [
+			{
+				"family": "Petrucci",
+				"given": "Armando"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2008"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2426357/items/5VD8AMWA",
+		"type": "book",
+		"archive_location": "buc_m1",
+		"call-number": "XA 11338",
+		"collection-title": "Champion-varia 30",
+		"event-place": "Paris",
+		"ISBN": "978-2-85203-896-7",
+		"language": "fre",
+		"publisher": "H. Champion",
+		"publisher-place": "Paris",
+		"source": "https://www.sudoc.fr/004456122",
+		"title": "L'épistolaire, un genre féminin ?",
+		"author": [
+			{
+				"family": "Planté",
+				"given": "Christine"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1998"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2426357/items/X896FMRU",
+		"type": "book",
+		"archive_location": "buc_3",
+		"call-number": "306.85 ELO",
+		"collection-title": "Sciences de l'histoire",
+		"event-place": "Strasbourg",
+		"ISBN": "978-2-86820-294-9",
+		"language": "fre",
+		"number-of-pages": "280",
+		"publisher": "Presses universitaires de Strasbourg",
+		"publisher-place": "Strasbourg",
+		"source": "https://www.sudoc.fr/11222721X",
+		"title": "Éloignement géographique et cohésion familiale: XVe-XXe siècle",
+		"title-short": "Éloignement géographique et cohésion familiale",
+		"author": [
+			{
+				"family": "Chauvard",
+				"given": "Jean-François"
+			},
+			{
+				"family": "Lebeau",
+				"given": "Christine"
+			}
+		],
+		"contributor": [
+			{
+				"family": "Arts",
+				"given": "civilisation",
+				"dropping-particle": "et histoire de l'Europe"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2006"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2426357/items/CWBC4PX7",
+		"type": "book",
+		"archive_location": "buc_m5",
+		"call-number": "M 10705",
+		"collection-title": "Colección Ilustración Vasca tome 14",
+		"event-place": "Lieu de publication inconnu",
+		"ISBN": "84-933964-1-9",
+		"language": "spa",
+		"number-of-pages": "422",
+		"publisher": "Real Sociedad Bascongada de los Amigos del País",
+		"publisher-place": "Lieu de publication inconnu",
+		"source": "https://www.sudoc.fr/092701442",
+		"title": "La carta como fuente y como texto: las correspondencias societarias en el siglo XVIII : la Real Sociedad Bascongada de los Amigos del País : [actas del II seminario Peñaflorida, Toulouse, 14-15 de noviembre de 2003]",
+		"title-short": "La carta como fuente y como texto",
+		"author": [
+			{
+				"family": "Risco",
+				"given": "Antonio"
+			},
+			{
+				"family": "Urkia Etxabe",
+				"given": "José María"
+			},
+			{
+				"literal": "Seminario Peñaflorida"
+			}
+		],
+		"contributor": [
+			{
+				"literal": "Real sociedad vascongada de los amigos del país"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2005"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2426357/items/47QXVGII",
+		"type": "book",
+		"archive_location": "collex_ce",
+		"call-number": "CE 19142-1",
+		"collection-title": "Biblioteca litterae 3",
+		"event-place": "Madrid",
+		"ISBN": "84-96049-02-7",
+		"language": "spa;ita;por",
+		"number-of-pages": "601",
+		"publisher": "Calambur",
+		"publisher-place": "Madrid",
+		"source": "https://www.sudoc.fr/078716187",
+		"title": "La correspondencia en la historia: modelos y prácticas de escritura epistolar : actas del VI Congreso internacional de historia de la cultura escrita, [Alcalá de Henares, del 9 al 13 julio de 2001], vol. I",
+		"title-short": "La correspondencia en la historia",
+		"author": [
+			{
+				"family": "Sáez",
+				"given": "Carlos"
+			},
+			{
+				"family": "Castillo Gómez",
+				"given": "Antonio"
+			},
+			{
+				"literal": "Congreso internacional de historia de la cultura escrita"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2002"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2426357/items/34VRTPZM",
+		"type": "book",
+		"archive_location": "collex_e9",
+		"call-number": "946.082 4 E PRE S",
+		"collection-title": "Estudios",
+		"event-place": "Madrid",
+		"ISBN": "978-84-15963-78-3",
+		"language": "spa",
+		"number-of-pages": "360",
+		"publisher": "Marcial Pons Historia",
+		"publisher-place": "Madrid",
+		"source": "https://www.sudoc.fr/194349241",
+		"title": "Cartas presas: la correspondencia carcelaria en la Guerra Civil y el Franquismo",
+		"title-short": "Cartas presas",
+		"author": [
+			{
+				"family": "Sierra Blas",
+				"given": "Verónica"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2016"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2426357/items/U62LY6PY",
+		"type": "article-journal",
+		"archive_location": "web_open",
+		"call-number": "(En ligne)",
+		"container-title": "Melisendra",
+		"ISSN": "2734-4533",
+		"issue": "1",
+		"language": "spa",
+		"page": "5-36",
+		"title": "«Larga he sido pero no cuanto deseo»: las mujeres como redactoras de cartas en la cultura escrita de la Edad Moderna",
+		"title-short": "Larga he sido pero no cuanto deseo",
+		"URL": "https://semscom.wordpress.com/larga-he-sido-pero-no-cuanto-deseo-las-mujeres-como-redactoras-de-cartas-en-la-cultura-escrita-de-la-edad-moderna/",
+		"author": [
+			{
+				"family": "Tabernero Sala",
+				"given": "Cristina"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2019"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2426357/items/6KW2EVKR",
+		"type": "book",
+		"archive_location": "collex_ce",
+		"call-number": "CE 40797",
+		"collection-title": "Casa de la riqueza Estudios de la cultura de España 43",
+		"event-place": "Madrid",
+		"ISBN": "978-84-16922-51-2",
+		"language": "spa",
+		"number-of-pages": "296",
+		"publisher": "Iberoamericana",
+		"publisher-place": "Madrid",
+		"source": "https://www.sudoc.fr/226341542",
+		"title": "Historia e intimidad: epistolarios y autobiografía en la cultura española del medio siglo",
+		"title-short": "Historia e intimidad",
+		"author": [
+			{
+				"family": "Teruel Benavente",
+				"given": "José"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2426357/items/NMEBTRBP",
+		"type": "book",
+		"archive_location": "collex_ce",
+		"call-number": "CE 33082",
+		"collection-title": "Colección Sagardiana Estudios feministas no. 1",
+		"event-place": "Zaragoza, España",
+		"ISBN": "978-84-7733-550-4",
+		"language": "spa",
+		"number-of-pages": "276",
+		"publisher": "Prensas Universitarias de Zaragoza",
+		"publisher-place": "Zaragoza, España",
+		"source": "https://www.sudoc.fr/152377891",
+		"title": "Tomando cartas en el asunto: las amistades peligrosas de las mujeres con el género epistolar",
+		"title-short": "Tomando cartas en el asunto",
+		"author": [
+			{
+				"family": "Torras Francés",
+				"given": "Meri"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2001"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2426357/items/KXAHLAA4",
+		"type": "article-journal",
+		"abstract": "In this paper we present the project Post Scriptum, which  aims to build up a campaign of collection, edition and historical-linguistic  study of private letters written in Portugal and Spain along the Early Modern Ages. Not only does the Post Scriptum project present a wide collection  of private letters, but it also makes it available as a scholarly digital edition  and as an annotated corpus. Key aspects about the development of Post  Scriptum are explained in this paper, from the finding of manuscripts in historical archives to the digital edition and semi-automatic annotation of  texts and their publication online. Final results and some examples that  illustrate how the exploitation of this corpus works at different linguistic  levels are also included\nEn este trabajo presentamos el proyecto de investigación  Post Scriptum, que tiene por objeto la búsqueda, edición y estudio históricolingüístico de cartas privadas escritas en España y Portugal durante la Edad  Moderna. Post Scriptum reúne una amplia colección epistolar y la ofrece en  dos formatos preparados para la búsqueda: el de la edición crítica digital y  el del corpus lingüísticamente anotado. En esta presentación se exponen  los aspectos fundamentales sobre el diseño y elaboración de Post Scriptum,  desde la búsqueda de los manuscritos en archivos históricos hasta la edición digital y anotación semiautomática de los textos y su publicación en  línea; también se recogen resultados definitivos y se aportan algunos ejemplos de explotación del corpus en diferentes niveles de análisis",
+		"archive_location": "web_open",
+		"call-number": "(En ligne)",
+		"container-title": "Cuadernos del Instituto de Historia de la Lengua",
+		"DOI": "10.58576/cilengua.vi11.53",
+		"ISSN": "1889-0709",
+		"issue": "11",
+		"language": "spa",
+		"page": "139-164",
+		"title": "Escritura epistolar, edición digital y anotación de corpus.",
+		"author": [
+			{
+				"family": "Vaamonde",
+				"given": "Gael"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					5,
+					27
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2426357/items/Z572KG8F",
+		"type": "article-journal",
+		"archive_location": "web_open",
+		"call-number": "(En ligne)",
+		"container-title": "Historia y Sociedad",
+		"DOI": "10.15446/hys.n38.82099",
+		"ISSN": "2357-4720",
+		"issue": "38",
+		"language": "spa",
+		"page": "46-70",
+		"title": "Las cartas al poder : Definición y evolución de una práctica epistolar (siglos XVI al XX",
+		"title-short": "cartas al poder",
+		"author": [
+			{
+				"family": "Adámez-Castro",
+				"given": "Guadalupe"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2020"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2426357/items/FDJGNWVW",
+		"type": "article-journal",
+		"abstract": "Aunque la carta familiar ha estado sometida a pocas reglas, desde la Antigüedad los preceptistas y los epistológrafos no han podido evitar recomendar algunas normas que han contribuido a definir su naturaleza. Este artículo realiza un recorrido histórico de la consideración teórica que ha tenido la carta familiar hasta mediados del siglo XIX y analiza los elementos característicos que la han singularizado: los corresponsales, las temáticas, el estilo y la forma.",
+		"archive_location": "web_open",
+		"call-number": "(En ligne)",
+		"container-title": "Revista de Historia Moderna",
+		"DOI": "10.14198/RHM2019.37.04",
+		"ISSN": "1989-9823",
+		"issue": "37",
+		"language": "es",
+		"page": "95-125",
+		"title": "La teoría de la carta familiar (siglos XVI-XIX)",
+		"URL": "https://revistahistoriamoderna.ua.es/article/view/2019-n37-la-teoria-de-la-carta-familiar-siglos-xiv-xv",
+		"author": [
+			{
+				"family": "Pelayo",
+				"given": "Javier Antón"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					5,
+					27
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					10,
+					28
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2426357/items/LMRAQ3BK",
+		"type": "article-journal",
+		"abstract": "El presente artículo se propone desarrollar una serie de reflexiones en torno a las posibilidades metodológicas y teóricas que se abren a partir del empleo de los epistolarios como fuentes útiles para el análisis de la problemática de la sociabilidad. En tal sentido, partiendo del análisis del concepto y las posibilidades teórico-metodológicas aportadas por los estudios de la sociabilidad al campo de la historia, nos conducirémos a un estudio de caso, donde el epistolario se plasma como el atajo pertinente para historiar las formas de sociabilidad con sujetos situados en un recorte temporo-espacial concreto.",
+		"archive_location": "web_open",
+		"call-number": "(En ligne)",
+		"container-title": "Antíteses",
+		"DOI": "10.5433/1984-3356.2009v2n4p1011",
+		"ISSN": "1984-3356",
+		"issue": "4",
+		"language": "pt",
+		"page": "1011-1032",
+		"title": "Por los senderos del epistolario: las huellas de la sociabilidad",
+		"title-short": "Por los senderos del epistolario",
+		"URL": "https://ojs.uel.br/revistas/uel/index.php/antiteses/article/view/2755",
+		"volume": "2",
+		"author": [
+			{
+				"family": "Caldo",
+				"given": "Paula"
+			},
+			{
+				"family": "Fernández",
+				"given": "Sandra"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					5,
+					27
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2009",
+					8,
+					7
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2426357/items/DZ9E6TX9",
+		"type": "article-journal",
+		"abstract": "Tot i que la carta té una llarga història, és indiscutible que, a partir del segle xvi, s’intensificà la seva funció comunicativa degut a la concurrència, almenys, dels factors següents: extensió social de l’alfabetització, importància creixent de l’escriptura en tots els àmbits de la vida, situacions propiciatòries per als intercanvis epistolars (guerres, emigració a Amèrica i empresonaments, sobretot) i desenvolupament del correu. Així mateix, des de finals del Set-cents i, en particular, durant el segle xix, es perfilà un nou ordre epistolar com a conseqüència d’una sèrie de canvis tant en la manera d’escriure les cartes com en els suports i els usos postals. Amb aquestes premisses, aquest assaig esbossa una aproximació general a aquesta problemàtica detenint-se en els aspectes substancials de la comunicació epistolar durant aquells quatrecents anys.",
+		"archive_location": "web_open",
+		"call-number": "(En ligne)",
+		"container-title": "Manuscrits: revista d'història moderna",
+		"ISSN": "2014-6000",
+		"issue": "29",
+		"language": "spa",
+		"page": "19-50",
+		"title": "«Me alegraré que al recibo de ésta...». Cuatrocientos años de prácticas epistolares (siglos XVI a XIX)",
+		"title-short": "Me alegraré que al recibo de ésta",
+		"URL": "https://raco.cat/index.php/Manuscrits/article/view/249943",
+		"author": [
+			{
+				"family": "Gómez",
+				"given": "Antonio Castillo"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					5,
+					27
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2011"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2426357/items/6KQU2BRQ",
+		"type": "article-journal",
+		"archive_location": "web_open",
+		"call-number": "(En ligne)",
+		"container-title": "Romantisme",
+		"DOI": "10.3406/roman.1995.3055",
+		"ISSN": "1957-7958",
+		"issue": "90",
+		"language": "fre",
+		"license": "free",
+		"page": "89-99",
+		"title": "Pour une histoire de la correspondance familiale",
+		"URL": "https://www.persee.fr/doc/roman_0048-8593_1995_num_25_90_3055",
+		"volume": "25",
+		"author": [
+			{
+				"family": "Dauphin",
+				"given": "Cécile"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					5,
+					27
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1995"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2426357/items/2HGAPJQ7",
+		"type": "article-journal",
+		"abstract": "En este trabajo, nos proponemos estudiar los recursos lingüísticos empleados para la intensificación y la expresión afectiva en un corpus epistolar del siglo XVIII. Las cartas que componen este corpus se caracterizan por estar escritas por mujeres a otras mujeres de su familia con las que mantienen una relación simétrica; tienen, por tanto, un carácter privado, lo que las hace un objeto de estudio idóneo para observar los rasgos discursivos hallados en ellas pertenecientes tanto a la distancia como a la inmediatez comunicativa. Además, con este artículo se contribuye al estudio de un periodo menos atendido en la lingüística histórica y que está en auge en la actualidad: el denominado primer español moderno (1650-1825). Del análisis emprendido se deduce que los recursos intensificadores y afectivos se dan de manera abundante y variada en estos textos y se constituyen como una característica pragmática propia de ellos. La abundancia de estas expresiones puede explicarse porque, al ser un rasgo asumido y esperado por los usuarios de las cartas, el valor intensificador y afectivo termina mitigándose, por lo que es necesario utilizar un mayor número de recursos con una gran carga pragmática para conseguir el efecto deseado.",
+		"archive_location": "web_open",
+		"call-number": "(En ligne)",
+		"container-title": "Hipogrifo. Revista de literatura y cultura del Siglo de Oro",
+		"DOI": "10.13035/H.2021.09.01.57",
+		"ISSN": "2328-1308",
+		"issue": "1",
+		"language": "es",
+		"page": "1027-1048",
+		"title": "Cartas de mujeres y recursos para la intensificación y la expresión afectiva en un corpus del siglo XVIII",
+		"URL": "https://www.revistahipogrifo.com/index.php/hipogrifo/article/view/946",
+		"volume": "9",
+		"author": [
+			{
+				"family": "Martín",
+				"given": "Blanca Garrido"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					5,
+					27
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					5,
+					31
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2426357/items/Z4IB2C34",
+		"type": "article-journal",
+		"abstract": "Partant du constat que l’épistolaire est depuis toujours un écrit ordinaire « permis » aux femmes, on s’interroge sur les raisons qui font que, au cours xixe siècle et en particulier dans sa première moitié, ce genre d’écrit voué à rester dans le cercle restreint de l’intimité et de la sphère domestique, s’élargit en réseau, permettant aux femmes de redéfinir leur espace de vie et d’expression. Par quelles ruses, ces épistolières, essentiellement allemandes, vont-elles réussir à se créer à l’échelle européenne l’espace à soi qui leur avait été si longtemps refusé ? Et comment vont-elles, dans quelques cas rares mais emblématiques, devenir par la voie et la grâce d’un écrit ordinaire féminin dûment revisité des individues actrices à part entière de la vie publique ?",
+		"archive_location": "web_open",
+		"call-number": "(En ligne)",
+		"container-title": "Clio. Femmes, Genre, Histoire",
+		"DOI": "10.4000/clio.10507",
+		"ISSN": "1252-7017",
+		"issue": "35",
+		"language": "fr",
+		"page": "67-88",
+		"title": "Correspondances féminines au xixe siècle.De l’écrit ordinaire au réseau",
+		"URL": "https://journals.openedition.org/clio/10507",
+		"author": [
+			{
+				"family": "Hoock-Demarle",
+				"given": "Marie-Claire"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					5,
+					27
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2012"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2426357/items/VBSQW6C6",
+		"type": "article-journal",
+		"abstract": "En Historia, la correspondencia epistolar privada, en cuanto medio de comunicación entre personas, es la única fuente documental que revela las interacciones directas, no mediatizadas institucionalmente, entre actores sociales. El artículo explora las posibilidades de esta fuente tanto para el análisis cualitativo e intensivo de las relaciones personales como para reconstruir la “red egocentrada” del receptor delas cartas y llevar a cabo un análisis efectivo de redes sociales, aplicando los métodos y parámetros del “Social Network Analysis”. A partir de dos ejemplos centrados en epistolarios del siglo XVIII, los autores muestran las posibilidades y limitaciones de los análisis cualitativos clásicos y el interés de las aportaciones específicas del análisis de redes egocentradas, abogando por la combinación deambas metodologías. Abstract: Historically speaking, private correspondence as a means of direct communication between people provides unique source documents that reveals direct, institutionally unmediated interactions among social actors. This article explores the potential of such a source for both qualitative analysis and intensive personal relations in order to reconstruct the \"ego-centered network\" of letters received,and carry out effective analysis of social networks, using \"Social Network Analysis\" methodology. Two such examples focus on eighteenth-century epistolary, the authors show the possibilities and limitations of classical qualitative analysis and the import of specific contributions regarding ego-centered network analysis; they advocate the combination of both methods.",
+		"archive_location": "web_open",
+		"call-number": "(En ligne)",
+		"container-title": "Redes. Revista hispana para el análisis de redes sociales",
+		"DOI": "10.5565/rev/redes.419",
+		"ISSN": "1579-0185",
+		"issue": "2",
+		"language": "es",
+		"page": "98-138",
+		"title": "Redes sociales y correspondencia epistolar. Del análisis cualitativo de las relaciones personales a la reconstrucción de redes egocentradas",
+		"volume": "21",
+		"author": [
+			{
+				"family": "Beunza",
+				"given": "José María Imízcoz"
+			},
+			{
+				"family": "Ruiz",
+				"given": "Lara Arroyo"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					5,
+					27
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2011",
+					12,
+					5
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2426357/items/J3G3HGFP",
+		"type": "article-journal",
+		"abstract": "En el presente trabajo proponemos un estudio comparativo de los rasgos epistolares en dos formatos: la carta física o postal y la carta digital o email. Estudiaremos la evolución de la carta física a la digital y su incidencia en la construcción del sujeto actual en el contexto de la globalización, los medios de comunicación de masas y, sobre todo, Internet. ABSTRACT: In this paper we propose a comparative study of the epistolary features in both physical letter and email. We will study the evolution of the letter and its impact on the construction of the subject in the context of globalization, the mass media and Internet.",
+		"archive_location": "web_open",
+		"call-number": "(En ligne)",
+		"container-title": "Impossibilia. Revista Internacional de Estudios Literarios",
+		"DOI": "10.32112/2174.2464.6.90",
+		"ISSN": "2174-2464",
+		"issue": "6",
+		"language": "es",
+		"title": "Textualidad epistolar en la era digital",
+		"URL": "https://revistaseug.ugr.es/index.php/impossibilia/article/view/23327",
+		"author": [
+			{
+				"family": "Krasniqui",
+				"given": "Florie"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					5,
+					27
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2013",
+					10,
+					30
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/2426357/items/RPJGLB2R",
+		"type": "article-journal",
+		"abstract": "Un corpus epistolar de la segunda mitad del XVIII, extraído de procesos por incumplimiento de promesa matrimonial del Archivo Diocesano de Pamplona, constituye la base para este trabajo, enmarcado en un proyecto sobre universos discursivos femeninos (siglos XVI al XIX) que atiende a la plasmación de los afectos y las emociones. La tradición discursiva -carta privada-, la temática amorosa y el perfil de las redactoras propician la aparición de una amplia nómina de estrategias intensificadoras en diferentes niveles. Se revisan aquí en concreto fenómenos sintácticos de intensificación y, especialmente, los periodos condicionales y concesivos, que podrían asimismo, según los casos, mantener una función referencial o incluso atenuar. Se presta atención a los niveles del contexto que permiten en cada caso interpretar el carácter escalar o evaluativo de estas construcciones.",
+		"archive_location": "web_open",
+		"call-number": "(En ligne)",
+		"container-title": "Estudios de lingüística del español",
+		"ISSN": "1139-8736",
+		"language": "es",
+		"page": "87-111",
+		"title": "“Tuya, tuya aunque no quieran” : Voz femenina e intensificación en correspondencia amorosa del español moderno",
+		"title-short": "Tuya, tuya aunque no quieran",
+		"URL": "https://raco.cat/index.php/Elies/article/view/384868",
+		"volume": "42",
+		"author": [
+			{
+				"family": "Pasamar",
+				"given": "Concepción Mart´ínez"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					5,
+					27
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2020"
+				]
+			]
+		}
+	}
+]

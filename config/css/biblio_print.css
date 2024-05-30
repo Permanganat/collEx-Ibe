@@ -1,0 +1,62 @@
+/* Basic configuration */
+h1 {
+  font-family: 'Noto Sans Display', sans-serif;
+  font-weight: 700;
+  font-size: 4rem;
+}
+
+h2 {
+  font-family: 'Noto Sans Display', sans-serif;
+  font-weight: 500;
+  font-size: 1.5rem;
+}
+
+h3 {
+  font-family: 'Noto Sans Display Italic', sans-serif;
+  font-weight: 500;
+  font-size: 1.5rem;
+  font-style: italic;
+}
+
+p {
+  font-family: 'Cormorant', serif;
+  font-weight: 300;
+  font-size: 1rem;
+}
+
+/* Bibliography configuration */
+h2 {
+  string-set: section content(text);
+}
+/* First Page configuration */
+
+.cover-page {
+  page: cover-page;
+  page-break-after: always;
+}
+
+/* Printing configuration */
+
+@media print {
+  @page {
+    size: A4;
+    margin-top: 10mm;
+    margin-bottom: 20mm;
+  }
+  @page:left {
+    margin-left: 50mm;
+    margin-right: 10mm;
+  }
+  @page:right {
+    margin-left: 10mm;
+    margin-right: 50mm;
+  }
+  @page {
+	@bottom-center {
+		content: string(section) " / " counter(page);
+		font-weight: 600;
+		font-size: 0.75rem;
+		text-transform: uppercase;
+        }
+    }
+}
